@@ -1,0 +1,15 @@
+com\sistema\automotivo\config\OpenApiConfig.class
+com\sistema\automotivo\controller\ModeloController.class
+com\sistema\automotivo\repository\ModeloRepository.class
+com\sistema\automotivo\controller\VeiculoController.class
+com\sistema\automotivo\service\VeiculoService.class
+com\sistema\automotivo\model\Modelo.class
+com\sistema\automotivo\repository\VeiculoRepository.class
+com\sistema\automotivo\model\Marca.class
+com\sistema\automotivo\model\Veiculo.class
+com\sistema\automotivo\service\ModeloService.class
+com\sistema\automotivo\repository\MarcaRepository.class
+com\sistema\automotivo\exception\GlobalExceptionHandler.class
+com\sistema\automotivo\service\MarcaService.class
+com\sistema\automotivo\controller\MarcaController.class
+com\sistema\automotivo\SistemaAutomotivoApplication.class
